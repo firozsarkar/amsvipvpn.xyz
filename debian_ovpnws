@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='174.138.187.20';
+USER='hostings_5g-internetvpnv2';
+PASS='hostings_5g-internetvpnv2';
+DBNAME='hostings_5g-internetvpnv2';
+PORT_TCP='1194';
+PORT_UDP='53';
+404: Not Found
